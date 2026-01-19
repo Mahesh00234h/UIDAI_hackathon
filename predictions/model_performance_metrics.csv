@@ -1,0 +1,4 @@
+,Type,R2_Score,RMSE,MAE,Total_Updates_R2,Demo_Updates_R2,Bio_Updates_R2,Model,Accuracy,High_Risk_Regions
+Enrolment_Load_Model,Linear Regression,1.0,7.906333929023718e-12,6.081714571201216e-12,,,,,,
+Update_Load_Models,,,,,0.9972077805317768,0.999979284641639,0.999579072520089,,,
+Risk_Classification,,,,,,,,Random Forest Classifier,1.0,283
